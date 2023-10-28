@@ -1,4 +1,3 @@
-
-side = input(enter_side)
-sideside = side**3
-print("The surface of area of the cube is: ", sideside)
+number = int(input("Enter a number of cube sides: "))
+sides = number**3
+print("The surface area of a cube with side: ", sides)
